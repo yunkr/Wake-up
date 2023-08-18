@@ -27,6 +27,13 @@
 <br />
 <br />
 
+## 🔨 Skill Stacks
+- JAVA
+- ML Kit
+
+<br />
+<br />
+
 ## 🔗 프로젝트 구현 내용(내 담당)
 
 <br />
@@ -73,6 +80,21 @@
 <br />
 <br />
 <img src="https://github.com/yunkr/Wake-up/assets/99308074/7df9f295-7718-4a9b-acb4-42972e8d48bf">
+
+<br />
+<br />
+<br />
+<br />
+
+## 📂 다이어그램
+[다이어그램](https://app.diagrams.net/#G1CktIv5HM0_aV3e0OBCzWYhqHjsNlIOod)
+<br>
+<br>
+<br/>
+<img src="https://github.com/yunkr/Wake-up/assets/99308074/8f3f80b4-0587-4249-9c8a-0cd840a53288">
+<br>
+
+
 
 
 
